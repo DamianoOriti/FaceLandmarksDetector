@@ -1,7 +1,5 @@
 ## Ignore test files
 _test/
-haarcascade_frontalface_alt2.xml
-lbfmodel.yaml
 
 
 
